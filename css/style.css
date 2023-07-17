@@ -1,0 +1,98 @@
+* 
+{
+  box-sizing: border-box;
+}
+.selectcard 
+{
+  width: 810px;
+  background-color: #f0f0f0;
+  padding: 30px;
+  border-radius: 10px;
+}
+/* Head tags */
+h2 
+{
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+h2 
+{
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.main-heading 
+{
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #888888;
+  margin-bottom: 20px;
+}
+/* form css */
+form 
+{
+  font-family: Arial, sans-serif;
+}
+
+.f-row 
+{
+  margin-bottom: 20px;
+}
+
+label 
+{
+  display: block;
+  font-weight: bold;
+}
+
+input[type="text"] 
+{
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 8px;
+  font-size: 14px;
+}
+
+/* Buttons css and hover effect */
+
+.btns 
+{
+  text-align: right;
+}
+
+.cancelbtn,
+.updatebtn 
+{
+  background-color: #3498db;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.cancelbtn:hover,
+.cancelbtn:focus,
+.updatebtn:hover,
+.updatebtn:focus 
+{
+  background-color: #217dbb;
+  outline: none;
+}
+
+.updatebtn
+{
+  margin-left: 10px;
+}
+input[type="text"] {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 8px;
+}
